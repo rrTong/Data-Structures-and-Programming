@@ -1,0 +1,8 @@
+Scores from p3 for Saito Aki Tong Ryan 
+Note that format is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: ajsaito@ucdavis.edu rrtong@ucdavis.edu  
+
+gen.cpp:
+gen.cpp does not compile!
