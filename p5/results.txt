@@ -1,0 +1,34 @@
+Found #include of standard library other than iostream, cstdlib, cstring, climits, and cstddef.
+so zero for the assignment.
+Makefile optimization check: 
+OK
+Testing  map-20-1000-7.txt: 
+CPU time: 0.004917Edge 235 has coordinate(s) outside the acceptable range:
+startX: -236
+startY: 0
+endX: -237
+endY: 0
+ 
+Errors found, so zero for assignment.
+Testing  map-20-1000-8.txt: 
+CPU time: 0.004815Edge 478 has coordinate(s) outside the acceptable range:
+startX: -479
+startY: 0
+endX: -480
+endY: 1
+ 
+Errors found, so zero for assignment.
+Testing  map-20-1000-9.txt: 
+CPU time: 0.0048Edge 190 has coordinate(s) outside the acceptable range:
+startX: 0
+startY: -191
+endX: 1
+endY: -192
+ 
+Errors found, so zero for assignment.
+You had memory leaks, so 5 points will be deducted.
+
+Total CPU Time: Yours   Sean's: 1.2 so your score is 
+
+Path Length: Yours   Sean's: 218581 so your score is 
+Total Score: Zero because there were errors found while running.
